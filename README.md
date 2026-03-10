@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aagneyesyam" target="blank"><img src="https://img.shields.io/twitter/follow/aagneyesyam?logo=twitter&style=for-the-badge" alt="aagneyesyam" /></a> </p>
 
-- 🔭 I’m currently working on [Platformer game](https://github.com/aagneye-syam/Platformer-game)
+- 🔭 I’m currently working on [Portsnc]
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aagneye-syam](https://github.com/aagneye)
+- 👨‍💻 All of my projects are available at [https://github.com/aagneye](https://github.com/aagneye)
 
 - 💬 Ask me about **JavaScript, MongoDB,Node.js, Solidity, AI & ML, Flutter**
 
