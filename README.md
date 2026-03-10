@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aagneye-syam](https://github.com/aagneye-syam)
+- 👨‍💻 All of my projects are available at [https://github.com/aagneye-syam](https://github.com/aagneye)
 
 - 💬 Ask me about **JavaScript, MongoDB,Node.js, Solidity, AI & ML, Flutter**
 
-- 📫 How to reach me **aagneyesy@gmail.com**
+- 📫 How to reach me **aagneye@aagneye.com**
 
 - ⚡ Fun fact **"Not magic, but pretty close to>>>>"**
 
