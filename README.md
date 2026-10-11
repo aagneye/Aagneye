@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aagneye</h1>
 <h3 align="center">A passionate web and blockchain developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aagneye-syam&label=Profile%20views&color=0e75b6&style=flat" alt="aagneye-syam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aagneye-syam&label=Profile%20views&color=0e75b6&style=flat" alt="aagneye" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagneye-syam" alt="aagneye-syam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagneye-syam" alt="aagneye" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aagneyesyam" target="blank"><img src="https://img.shields.io/twitter/follow/aagneyesyam?logo=twitter&style=for-the-badge" alt="aagneyesyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aagneyesyam" target="blank"><img src="https://img.shields.io/twitter/follow/aagneyesyam?logo=twitter&style=for-the-badge" alt="aagneye" /></a> </p>
 
 - 🔭 I’m currently working on [Portsnc]
 
